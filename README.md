@@ -1,2 +1,5 @@
-# crudJavascriptFirebase
-Crud using only javascript and firebase
+# CRUD_Firebase
+
+Created for example only 
+
+The configs of Firebase must be used at user especific.
